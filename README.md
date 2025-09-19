@@ -138,5 +138,3 @@ Classification Report:
 * Visualize decision trees with `graphviz` or `plot_tree`.
 
 ---
-
-Would you like me to also **add code to visualize the trained Decision Tree** (so you can include a tree diagram in the README)?
