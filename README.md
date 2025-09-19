@@ -1,4 +1,4 @@
-# 🌳 Kyphosis Dataset - Decision Trees & Random Forest
+#  Kyphosis Dataset - Decision Trees & Random Forest
 
 This project explores the **Kyphosis dataset**, which contains information about spinal surgeries in children, and applies **Decision Tree** and **Random Forest classifiers** to predict the presence of **kyphosis** (a spinal deformity) after surgery.
 
